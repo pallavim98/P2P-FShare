@@ -20,6 +20,9 @@ Ensure that the systems between which the folders have to be shared are on a com
 
 4. Click on Send and then click OK in the confirmation dialog box.
 
+![alt text](https://github.com/pallavim98/P2P-FShare/blob/master/guide_ss/1.png)
+
+![alt text](https://github.com/pallavim98/P2P-FShare/blob/master/guide_ss/2.png)
 
 ### Receiving a folder (by one or more systems) :
 1. As in the case of sending file ensure that Python3 interpreter and Tkinter are working. Then run the following command to start the program from command line:
@@ -30,5 +33,5 @@ Ensure that the systems between which the folders have to be shared are on a com
 3. click on Browse button and select the folder where you want the files of the sent folder to be transferred.
 4. click on Receive button.
 
-
+![alt text](https://github.com/pallavim98/P2P-FShare/blob/master/guide_ss/4.png)
 
